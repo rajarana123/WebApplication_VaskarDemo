@@ -1,0 +1,6 @@
+@WebApplication_VaskarDemo_HostAddress = http://localhost:5267
+
+GET {{WebApplication_VaskarDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
