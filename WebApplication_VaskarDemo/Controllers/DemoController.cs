@@ -5,7 +5,7 @@ namespace WebApplication_VaskarDemo.Controllers
 {
     public class DemoController : Controller
     {
-        // GET: DemoController item
+        // GET: DemoController item value
         public ActionResult Index()
         {
             return View();
