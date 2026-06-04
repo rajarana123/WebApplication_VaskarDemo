@@ -1,11 +1,10 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 
 namespace WebApplication_VaskarDemo.Controllers
 {
     public class DemoController : Controller
     {
-        // GET: DemoController 
+        // GET: DemoController item value done
         public ActionResult Index()
         {
             return View();
